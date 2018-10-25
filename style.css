@@ -1,0 +1,20 @@
+h1 {
+font-size: 30px;
+text-align: center;
+color: #0000FF
+}
+
+body {
+	font-size: 16px;
+    font-family: Helvetica, sans-serif;
+    color: #242424;
+    background-image: url(images/concrete_seamless.png);
+}
+
+ul li {
+	display: inline-block; 
+}
+
+li {
+	list-style-type: none; 
+}
